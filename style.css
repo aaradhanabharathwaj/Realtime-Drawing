@@ -1,0 +1,28 @@
+body{   
+    color: crimson;   
+}
+.copy_right_footer{   
+    color: crimson;      
+    bottom: 0;
+    text-align: center;
+    line-height: 2;
+    position: fixed;
+    width: 1500px;
+} 
+h1{
+    background: crimson;    
+    color: white;
+}
+canvas{
+    border: 5px solid white;
+    box-shadow: 10px 10px crimson;   
+    border-radius: 30px;
+}
+.heading{
+background-color: crimson;
+color: white;
+font-size: 25px;
+padding: 20px;
+width: 100%;
+margin-top: 0;
+}
